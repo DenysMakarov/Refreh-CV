@@ -258,7 +258,7 @@ function links() {
                     document.location = "https://github.com/DenysMakarov/New_CV_restaurant";
                     break;
                 case 'gitReact':
-                    document.location = "https://github.com/DenysMakarov/New_CV_React";
+                    document.location = "https://github.com/DenysMakarov/CV_FrontEnd_WRC";
                     break;
                 // case 'gitGallery':
                 //     document.location = "https://github.com/DenysMakarov/DevIT_img_gallary";
