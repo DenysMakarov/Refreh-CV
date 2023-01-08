@@ -610,6 +610,27 @@
       right: 10px;
     }
   }
+
+  .gitWrc{
+    height: 45%;
+
+    & div{
+      display: flex;
+      margin: auto;
+      justify-content: space-evenly;
+      width: 90%;
+      height: 40%;
+
+      & .btn-wrc-git{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100%;
+        width: 45%;
+        font-size: 17px;
+      }
+    }
+  }
 }
 
 .footer {
