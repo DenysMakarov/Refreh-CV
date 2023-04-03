@@ -235,7 +235,8 @@ function links() {
                     break;
                 case 'linkOfReact':
                 case 'link_title_react':
-                    document.location = "https://DenysMakarov.github.io/New_CV_React/dist/#/";
+                    // document.location = "https://DenysMakarov.github.io/New_CV_React/dist/#/";
+                    document.location = "https://denysmakarov.github.io/Old_React/dist/#/";
                     break;
 
                 // case 'linkOfGallery':
