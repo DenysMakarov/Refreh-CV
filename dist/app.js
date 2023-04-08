@@ -1,5 +1,5 @@
 
-window.location='https://master.d1xdcmpb2443ws.amplifyapp.com'
+window.location.href='https://master.d1xdcmpb2443ws.amplifyapp.com'
 
 
 // !function (e) {
