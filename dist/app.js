@@ -1,5 +1,5 @@
 
-window.location.href='https://mda-cv.d1w3hl00zbtxab.amplifyapp.com'
+window.location.href='https://mda-cv.netlify.app'
 
 
 // !function (e) {
